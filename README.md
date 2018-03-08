@@ -4,4 +4,6 @@ Personal Website of Yash Shah.
 
 Made using Particle Design with Media Links to Social Profiles and Introduction.
 
-![alt text](https://raw.githubusercontent.com/theguidingstar/theguidingstar.github.io/img/s.png)
+<p align="center">
+  <img src="img/s.png"/>
+</p>
