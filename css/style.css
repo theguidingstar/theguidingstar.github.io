@@ -42,8 +42,8 @@ q:before, q:after {
   content: none;
 }
 img:hover{
-height:42px;
-width:42px;
+height:50;
+width:50;
 }
 table {
   border-collapse: collapse;
